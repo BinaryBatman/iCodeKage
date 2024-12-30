@@ -2,9 +2,9 @@
 
 ## 🚀 About Me
 Hi, I’m **Muhammad Shafi**, also known by my nickname **icodekage**! I’m an aspiring polymath with a deep passion for technology, programming, and continuous learning. As a **beginner**, I’m focused on mastering:  
-- **Full-Stack Web Development** (MEAN, MERN, PERN, SQL, MySQL, PHP, frameworks, hosting)  
-- **Programming** (Java, C++, C, Python)  
-- **Data Structures & Algorithms (DSA)**  
+- **Full-Stack Web Development** (MEAN, MERN, PERN, SQL, MySQL, frameworks, hosting)  
+- **Data Structures & Algorithms (DSA)** using **Java, C++, and C**  
+- **Programming** (Python)  
 - **Mathematics & Physics** for programming and problem-solving  
 - **Islamic Knowledge** (Quran memorization, Hadith learning, Islamic history)  
 
@@ -12,7 +12,7 @@ My dream is not just to become a skilled developer or a master in any field but 
 
 ## 🛠 Current Focus
 - Learning **Full-Stack Web Development**  
-- Strengthening **DSA** skills in **Java, C++, and C**  
+- Strengthening **DSA** skills with a focus on **Java, C++, and C**  
 - Building a solid foundation in programming concepts  
 - Deepening my **Islamic Knowledge** to become the best Muslim I can be  
 
@@ -35,5 +35,6 @@ _"Strive for excellence in both this world and the Hereafter."_
 
 ---  
 Let’s grow, learn, and build together! 🚀  
+
 
   
